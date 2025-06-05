@@ -16,6 +16,7 @@ Welcome! This portfolio highlights key analytics and machine learning projects I
 -	Achieved F1 score of 0.73 and accuracy of 74.8% using RoBERTa with optimized hyperparameters (batch size, learning rate, epochs).
 -	Applied LIME for model interpretability and explainability.
 -	Demonstrated real-world potential for early mental health screening based on social media text.
+-	[View Notebook](./mental_health_nlp.ipynb)
 
 ## HR Attrition Prediction – Primoris Energy
 **Tools:** Python, Logistic Regression, Random Forest, Tableau  
