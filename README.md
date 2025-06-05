@@ -8,8 +8,7 @@ Welcome! This portfolio highlights key analytics and machine learning projects I
 -	Engineered features for actor/director experience using IMDb-weighted formulas and analyzed trends across genre, decade, and runtime.
 -	Tuned model via cross-validation and grid search, and visualized performance using Seaborn & Matplotlib.
 -	Built an interactive prediction function for unseen movies and processed large-scale data using AWS EMR, S3, and Docker.
--	View Notebook: 
-
+-	View Notebook: ./imdb_rating_forecast.ipynb
 
 ## Mental Illness Detection Using NLP  
 **Tools:** Python, Transformers, RoBERTa, LIME  
